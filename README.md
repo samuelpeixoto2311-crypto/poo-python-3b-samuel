@@ -1,2 +1,2 @@
-# poo-python-3b-seunome
+# poo-python-3b-samuel
 Projeto Python
